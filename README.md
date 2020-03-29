@@ -1,5 +1,5 @@
 # Assignment 1: Functional Programming
-##### Authors: Daniela Flores ([diflores](https://github.com/diflores)) & Javiera Jorquera ([@jatrijori](https://github.com/jatrijori))
+##### Authors: Daniela Flores ([@diflores](https://github.com/diflores)) & Javiera Jorquera ([@jatrijori](https://github.com/jatrijori))
 
 ## About
 
@@ -14,7 +14,7 @@ You can read the instructions (in Spanish) [here](https://docs.google.com/docume
 
 ## Additional resources
 
-- [Slides for presenting this assignment (Spanish)](https://docs.google.com/presentation/d/1W_AUr0Rh6YJTssyOc5TpCp0Gs9XtlP5xhGPH8KbwWIA/edit?usp=sharing)
-- [Test our code online](https://repl.it/@jatrijori/IIC3585-Tarea-1)
+- [Slides for presenting this assignment (Spanish)](https://docs.google.com/presentation/d/1W_AUr0Rh6YJTssyOc5TpCp0Gs9XtlP5xhGPH8KbwWIA/edit?usp=sharing).
+- [Test our code online](https://repl.it/@jatrijori/IIC3585-Tarea-1).
 
 
