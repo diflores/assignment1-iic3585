@@ -9,7 +9,7 @@ You can read the instructions (in Spanish) [here](https://docs.google.com/docume
 ## How to run locally
 1. Download the latest version of Node.
 2. Clone this repo: `git clone https://github.com/diflores/assignment1-iic3585.git`.
-3. Install dependencies (just one, LoDash): `npm install`
+3. Install dependencies (just one, LoDash): `npm install`.
 4. Run code `node functional_programming.js`.
 
 ## Additional resources
