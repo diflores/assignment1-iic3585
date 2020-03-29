@@ -1,0 +1,22 @@
+{
+  "name": "assignment1-iic3585",
+  "version": "1.0.0",
+  "description": "First assignment of IIC3585 2020-1",
+  "main": "functional_programming.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diflores/assignment1-iic3585.git"
+  },
+  "author": "Daniela Flores & Javiera Jorquera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diflores/assignment1-iic3585/issues"
+  },
+  "homepage": "https://github.com/diflores/assignment1-iic3585#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
