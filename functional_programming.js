@@ -78,5 +78,6 @@ const pipeline = pipe([
   sentencesPerParagraph(2),
 ]);
 
+// Export modified text
 const modifiedText = pipeline(fileText);
 fs.writeFileSync("modified_text.txt", modifiedText, { encoding: "utf-8" });
